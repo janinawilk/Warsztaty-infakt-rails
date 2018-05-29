@@ -53,5 +53,3 @@ Pamiętaj proszę, że nie oczekujemy setek linii kodu ;) <br>
 ## Powodzenia!
 
 Niezależnie od tego ile i jak zrobisz - czekamy na Twoje zgłoszenie z linkiem do repo!
-
-
